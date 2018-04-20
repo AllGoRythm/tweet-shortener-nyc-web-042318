@@ -14,8 +14,8 @@ def dictionary
 
 end
 
-def word_substituter(tweets)
+def word_substituter(tweet)
 
-  
+  my_array = tweet
 
 end
