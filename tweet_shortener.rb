@@ -49,4 +49,12 @@ end
 
 def shortened_tweet_truncator(tweet)
 
+  if condition
+
+  elsif
+
+  else
+
+  end  
+
 end
