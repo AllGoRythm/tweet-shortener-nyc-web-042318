@@ -22,7 +22,10 @@ def word_substituter(tweet)
   original_array.collect do |string|
 
     dictionary.collect do |key, value|
+      if string.downcase == key
+        string = word
 
+      end
     end
 
   end
