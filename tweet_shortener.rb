@@ -19,4 +19,8 @@ def word_substituter(tweet)
   original_array = tweet.split(" ")
   new_array = []
 
+  original_array.collect do |string|
+
+  end
+
 end
