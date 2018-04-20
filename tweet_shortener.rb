@@ -16,6 +16,6 @@ end
 
 def word_substituter(tweet)
 
-  my_array = tweet
+  my_array = tweet.split(" ")
 
 end
