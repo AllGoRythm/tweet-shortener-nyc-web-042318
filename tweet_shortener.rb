@@ -1,5 +1,7 @@
 def dictionary
 
-  dictionary = {}
+  dictionary = {
+    :hello => 2
+  }
 
 end
