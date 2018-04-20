@@ -27,7 +27,7 @@ def word_substituter(tweet)
 
       end
     end
-
+    new_array.push(string)
   end
 
 end
