@@ -21,6 +21,10 @@ def word_substituter(tweet)
 
   original_array.collect do |string|
 
+    dictionary.collect do |key, value|
+
+    end
+
   end
 
 end
