@@ -1,7 +1,7 @@
 def dictionary
 
   dictionary = {
-    :hello => 2
+    "hello" => "hi"
   }
 
 end
