@@ -23,7 +23,7 @@ def word_substituter(tweet)
 
     dictionary.collect do |key, value|
       if string.downcase == key
-        string = word
+        string = value
 
       end
     end
